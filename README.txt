@@ -96,4 +96,3 @@ Notes
 - Model checkpoints are saved automatically during training
 - Make sure to run organize.py before training or evaluation
 
-For any issues or questions, please refer to the code comments or create an issue in the repository. 
