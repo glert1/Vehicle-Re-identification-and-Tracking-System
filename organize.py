@@ -14,4 +14,4 @@ for filename in os.listdir(source_folder):
         shutil.copy(os.path.join(source_folder, filename),
                     os.path.join(vehicle_folder, filename))
 
-print("✅ Done organizing images by vehicle ID!")
+print(" Done organizing images by vehicle ID!")
